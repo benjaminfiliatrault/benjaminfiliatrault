@@ -12,9 +12,9 @@ I hold a Computer Science degree and have been working as a Software Engineer fo
 
 Here are some of the notable projects I've worked on:
 
-- **[Advent_of_Code]:** Just a repo with some Advent of Code problems solved using Rust
-- **[SpaceTraders]:** A somewhat worker, to play SpaceTraders API multiplayer game where we need to manage ships, resources, and complete contracts.
-- **[word_combinations]:** A challenge from one of my colleagues where using the English dictionary we can find a given amount of non-repeating character from a given length. The question was if in the English dictionary there is 5 words that have non-repeating character.
+- **[Advent_of_Code](https://github.com/benjaminfiliatrault/adventofcode):** Just a repo with some Advent of Code problems solved using Rust
+- **[SpaceTraders](https://github.com/benjaminfiliatrault/spacetraders):** A somewhat worker, to play SpaceTraders API multiplayer game where we need to manage ships, resources, and complete contracts.
+- **[word_combinations](https://github.com/benjaminfiliatrault/word_combinations):** A challenge from one of my colleagues where using the English dictionary we can find a given amount of non-repeating character from a given length. The question was if in the English dictionary there is 5 words that have non-repeating character.
 
 Feel free to explore these projects in more detail by visiting the respective repositories or live demos.
 
