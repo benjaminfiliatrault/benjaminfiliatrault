@@ -12,6 +12,7 @@ I hold a Computer Science degree and have been working as a Software Engineer fo
 
 Here are some of the notable projects I've worked on:
 
+- **[Neural Network in Rust](https://github.com/benjaminfiliatrault/neural_network):** I was searching for a nice Rust project to do so I decided to start a personal Neural Network framework why not, playing with Matrixes, improving memory allocation, and creating a Xor Gate. Let's where it goes...
 - **[Advent_of_Code](https://github.com/benjaminfiliatrault/adventofcode):** Just a repo with some Advent of Code problems solved using Rust
 - **[SpaceTraders](https://github.com/benjaminfiliatrault/spacetraders):** A somewhat worker, to play SpaceTraders API multiplayer game where we need to manage ships, resources, and complete contracts.
 - **[word_combinations](https://github.com/benjaminfiliatrault/word_combinations):** A challenge from one of my colleagues where using the English dictionary we can find a given amount of non-repeating character from a given length. The question was if in the English dictionary there is 5 words that have non-repeating character.
