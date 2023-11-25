@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm Benjamin Filiatrault, a passionate Software En
 
 ## About Me
 
-I hold a Computer Science degree and have been working as a Software Engineer for the past 5 years. During this time, I've gained valuable experience in developing robust and scalable solutions. I have a deep understanding of various technologies and frameworks, and I'm always eager to expand my knowledge and stay up-to-date with industry trends.
+I hold a Computer Science degree and have been working as a Software Engineer for more than 6 years. During this time, I've gained valuable experience in developing robust and scalable solutions. I have a deep understanding of various technologies and frameworks, and I'm always eager to expand my knowledge and stay up-to-date with industry trends.
 
 ## Projects
 
